@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTecToe</string>
+    <string name="gfg_tic_tac_toe">GFG Tic Tac Toe</string>
+    <string name="start">Start</string>
+    <string name="status">Status</string>
+    <string name="o">O\'s Turn - Tap to play</string>
+    <string name="x">X\'s Turn - Tap to play</string>
+    <string name="MatchDraw">Match Draw</string>
+    <string name="xs">X\'s Turn - Tap to play</string>
+    <string name="todo">TODO</string>
+</resources>
